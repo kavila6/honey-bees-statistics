@@ -25,7 +25,7 @@ View the interactive dashboard as follows:
 
 Explore the process, methodology, and key findings:  
 <p align="center">
-  <a href="[https://app.powerbi.com/view?r=eyJrIjoiZDllYzk5ZGYtZWUwYS00M2FlLWFjNWEtNGY0NWNmZjhhMmNlIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9](https://docs.google.com/presentation/d/1XaqGq5piJdqw7NEh4BQnmB8nMnWp_6jm/edit?usp=sharing&ouid=106708788260229897760&rtpof=true&sd=true)" target="_blank">
+  <a href="https://docs.google.com/presentation/d/1XaqGq5piJdqw7NEh4BQnmB8nMnWp_6jm/edit?usp=sharing&ouid=106708788260229897760&rtpof=true&sd=true" target="_blank">
     <img src="https://github.com/user-attachments/assets/96ef9150-aa00-4ad7-9947-3a395cda8a4b" alt="Honey Bee Report" width="600"/>
   </a>
   <br>
